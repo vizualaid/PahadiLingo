@@ -6,7 +6,5 @@ Introduction
 
 
 # WEB- https://pahadi-lingo.vercel.app/
-[Download App Apk]([https://github.com/vizualaid/ChatApplication-AndroidStudio-Kotlin-Firebase-/raw/master/chatApp.apk](https://github.com/vizualaid/PahadiLingo/blob/main/pahadilingo.apk))
-  
-
+# APP- [Download .Apk](https://github.com/vizualaid/PahadiLingo/blob/main/pahadilingo.apk)
 ![image](https://github.com/vizualaid/PahadiLingo/assets/74894810/1355f150-a03c-4cbc-b568-4001c185e0a2)
