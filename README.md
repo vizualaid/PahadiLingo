@@ -6,7 +6,7 @@ Introduction
 
 
 # WEB- https://pahadi-lingo.vercel.app/
-# APP- [Download .Apk](https://github.com/vizualaid/PahadiLingo/blob/main/pahadilingo.apk)
+# APP- [Download App](https://github.com/vizualaid/PahadiLingo/raw/master/pahadilingo.apk)
 ![image](https://github.com/vizualaid/PahadiLingo/assets/74894810/1355f150-a03c-4cbc-b568-4001c185e0a2)
 ![1](https://github.com/vizualaid/PahadiLingo/assets/74894810/a85578b0-10f2-4cde-b7a0-4486c8bf8d45)
 ![2](https://github.com/vizualaid/PahadiLingo/assets/74894810/ddf08e40-714e-467f-b62c-753c97a299a7)
