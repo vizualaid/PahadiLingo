@@ -1,7 +1,7 @@
  # PahadiLingo
   In this venture, I developed an Android App (Kotlin) and a Website (React.js), integrating Firebase services.
   This project reflects my commitment to preserving the beautiful and endangered  vocabulary of the Central Himalayan Languages of Uttarakhand.
-# [WEB LINK ](https://pahadi-lingo.vercel.app/) #
+# [WEB LINK ](https://pahadilingo.in/) #
 # [APP LINK](https://github.com/vizualaid/PahadiLingo/raw/main/pahadilingo.apk)
 
 ![1](https://github.com/vizualaid/PahadiLingo/assets/74894810/a85578b0-10f2-4cde-b7a0-4486c8bf8d45)
